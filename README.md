@@ -1,4 +1,4 @@
-# 🎸 RickRoll 🎸
+# 🎸 Server Guidelines🎸
 All RickRoll Files are posted here and sent to our [Discord](https://discord.gg/enymCyDY) server.
 
 ## ⚠️ WARNING ⚠️

@@ -1,5 +1,5 @@
 # 🎸 Server Guidelines🎸
-All RickRoll Files are posted here and sent to our [Discord](https://discord.gg/enymCyDY) server.
+All Server Files are posted here and sent to our [Discord](https://discord.gg/enymCyDY) server.
 
 ## ⚠️ WARNING ⚠️
 ## 1. We normally don't allow redistribution of our products. Please contact us if you still want to.
